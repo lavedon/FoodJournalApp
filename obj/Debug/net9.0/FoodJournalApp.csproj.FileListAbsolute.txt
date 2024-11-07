@@ -1,0 +1,17 @@
+C:\my-coding-projects\FoodJournalApp\bin\Debug\net9.0\FoodJournalApp.exe
+C:\my-coding-projects\FoodJournalApp\bin\Debug\net9.0\FoodJournalApp.deps.json
+C:\my-coding-projects\FoodJournalApp\bin\Debug\net9.0\FoodJournalApp.runtimeconfig.json
+C:\my-coding-projects\FoodJournalApp\bin\Debug\net9.0\FoodJournalApp.dll
+C:\my-coding-projects\FoodJournalApp\bin\Debug\net9.0\FoodJournalApp.pdb
+C:\my-coding-projects\FoodJournalApp\bin\Debug\net9.0\YamlDotNet.dll
+C:\my-coding-projects\FoodJournalApp\obj\Debug\net9.0\FoodJournalApp.csproj.AssemblyReference.cache
+C:\my-coding-projects\FoodJournalApp\obj\Debug\net9.0\FoodJournalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\my-coding-projects\FoodJournalApp\obj\Debug\net9.0\FoodJournalApp.AssemblyInfoInputs.cache
+C:\my-coding-projects\FoodJournalApp\obj\Debug\net9.0\FoodJournalApp.AssemblyInfo.cs
+C:\my-coding-projects\FoodJournalApp\obj\Debug\net9.0\FoodJournalApp.csproj.CoreCompileInputs.cache
+C:\my-coding-projects\FoodJournalApp\obj\Debug\net9.0\FoodJour.1E14B7FC.Up2Date
+C:\my-coding-projects\FoodJournalApp\obj\Debug\net9.0\FoodJournalApp.dll
+C:\my-coding-projects\FoodJournalApp\obj\Debug\net9.0\refint\FoodJournalApp.dll
+C:\my-coding-projects\FoodJournalApp\obj\Debug\net9.0\FoodJournalApp.pdb
+C:\my-coding-projects\FoodJournalApp\obj\Debug\net9.0\FoodJournalApp.genruntimeconfig.cache
+C:\my-coding-projects\FoodJournalApp\obj\Debug\net9.0\ref\FoodJournalApp.dll

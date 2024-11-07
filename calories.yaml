@@ -1,0 +1,41 @@
+daily_goal: 2000
+weekly_goal: 14000
+
+"2024-11-05":
+  banana: 
+    quantity: 1 
+    calories: 121
+  clementine:
+    quantity: 5 
+    calories: 35
+  bread-slice:
+    quantity: 2 
+    calories: 110
+  protein-shake:
+    quantity: 2 
+    calories: 450
+  crispy-maple-mustard-chicken:
+    quantity: 1 
+    calories: 660
+"2024-11-06":
+  banana: 
+    quantity: 2 
+    calories: 121
+  clementine:
+    quantity: 4 
+    calories: 35
+  popcorn-sour-patch-kids:
+    quantity: 1 
+    calories: 460
+  protein-shake:
+    quantity: 1 
+    calories: 450
+  chips:
+    quantity: 1 
+    calories: 200
+  popcorn:
+    quantity: 1 
+    calories: 160
+  gushers:
+    quantity: 1 
+    calories: 440
